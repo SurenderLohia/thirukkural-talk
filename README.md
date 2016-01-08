@@ -6,7 +6,7 @@
 ### நோக்கம் (Intention)
 ### வடிவம் (Structure)
 ### வான்சிறப்பு (Rain)
-### உழவு (Forming)
+### உழவு (Farming)
 ### ஒரு செயலின் சிறப்பு, மதிப்பு
 ### புரட்சி - நயம், கள்ளுண்ணாமை (Don't drink liquor)
 ### உவமை (Illustration)
@@ -39,7 +39,7 @@
 
 Even the wealth of the wide sea will be diminished, if the cloud that has drawn (its waters) up gives them not back again (in rain).
 
-## உழவு (Forming)
+## உழவு (Farming)
 >உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம் 
 
 >தொழுதுண்டு பின்செல் பவர். - 1033
