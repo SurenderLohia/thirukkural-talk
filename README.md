@@ -1,1 +1,1 @@
-# thirukkural
+# Thirukkural
