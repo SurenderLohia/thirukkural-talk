@@ -1,6 +1,6 @@
 # Thirukkural
 
-## வள்ளுவம் பேசுவோம் (We talk about Thirukkural) ##
+## வள்ளுவம் பேசுவோம் (Lets talk about Thirukkural) ##
 ## அறம் | பொருள் | இன்பம் (Virtue | Object | Love) 
 
 ### நோக்கம் (Intention)
