@@ -33,8 +33,9 @@
 அதில் மிக மிக சிறிய அடி வரையறை கெண்டது குறள் வெண்பா (2 அடி).
 
 # வான்சிறப்பு (Rain)
-```நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி
-தான்நல்கா தாகி விடின்.  - 17```
+'''நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி
+
+தான்நல்கா தாகி விடின்.  - 17'''
 
 Even the wealth of the wide sea will be diminished, if the cloud that has drawn (its waters) up gives them not back again (in rain).
 
